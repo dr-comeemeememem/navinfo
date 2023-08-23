@@ -1,0 +1,28 @@
+{
+    "name": "navinfo",
+    "version": "1.0.0",
+    "description": "Additional helpful functions and classes compatible with browser and NodeJs",
+    "main": "navinfo.js",
+    "scripts": {
+      "test": "echo \"No tests available\""
+    },
+    "author": {
+      "name": "Owen Deepe",
+      "email": "owen@altk.xyz",
+      "url": "https://owen.altk.xyz"
+    },
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/dr-comeemeememem/navinfo.git"
+    },
+    "bugs": {
+      "url": "https://github.com/dr-comeemeememem/navinfo/issues"
+    },
+    "homepage": "https://github.com/dr-comeemeememem/navinfo#readme",
+    "dependencies": {},
+    "devDependencies": {
+      "nodemon": "^2.0.12"
+    }
+  }
+  
